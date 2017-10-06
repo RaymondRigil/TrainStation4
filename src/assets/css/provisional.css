@@ -1,0 +1,101 @@
+#table1 tr td.zright { 
+height:25px;
+min-height:25px;
+padding-left:12px;
+font-size:14px;
+}
+
+
+#table1 tr td.zleft { 
+height:25x;
+min-height:25px;
+width:5px;
+max-width:5px;
+background-color:#695f5f;
+
+
+}
+
+#table1 tr.zselected td.zleft { 
+height:25px;
+min-height:25px;
+width:5px;
+max-width:5px;
+background-color:#127175;
+
+
+}
+
+
+
+#table1 tr.zselected td.zright { 
+height:25px;
+min-height:25px;
+padding-left:12px;
+font-size:14px;
+background-color:#3aa0a5;
+}
+
+
+
+
+#table2 li { 
+height:25px;
+min-height:25px;
+font-size:14px;
+}
+
+
+#table2 tr td.zleft { 
+height:25px;
+min-height:25px;
+width:5px;
+max-width:5px;
+background-color:#695f5f;
+
+
+}
+
+#table2 tr.zselected td.zleft { 
+height:25px;
+min-height:25px;
+width:5px;
+max-width:5px;
+background-color:#127175;
+
+
+}
+
+
+
+#table2 tr.zselected td.zright { 
+height:25px;
+min-height:25px;
+padding-left:12px;
+font-size:14px;
+background-color:#3aa0a5;
+}
+
+
+#table1 {
+
+width:135px;
+font-size:14px;
+position:absolute;
+top:0px;left:0px;
+color:#333;
+}
+
+#table2 {
+background:transparent;
+width:165px;
+font-size:14px;
+position:absolute;
+top:0px;left:-40px;
+list-style: none;
+}
+
+.some {
+background-color:red!important;
+opacity:0.3;
+}

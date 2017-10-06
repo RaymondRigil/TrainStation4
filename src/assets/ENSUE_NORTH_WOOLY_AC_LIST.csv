@@ -1,0 +1,2 @@
+#, ACID, Type, Performance, Start Time, Start Altitude, Dest Altitude, Start Speed, Dest Speed, Start Heading, Flight Type, Data Block Display, Data Block Position, Data Block Blinking, Data Block Scratchpad, Equipage, Controller ID, Origin, Dest, Route, Airport ID, RNAV Status Indicator, Modeler, 
+1, AWE327, A320, Large Jet,  0:00:00, 10000.0, 10000.0, 250.0, 250.0, 230.0, ARR, Full, NORTHEAST, true, , NON_RNAV, W, , , ,  , , TARGETS, 

@@ -1,0 +1,5 @@
+Time, Time (seconds), ACID, From Controller, To Controller,Datablock Offset, Blinking, Datablock State, Scratchpad
+00hr:00min:21.51sec,21.51,AWE327,W,E,NORTHEAST,true,Full,
+00hr:01min:01.81sec,61.81,AWE327,E,E,NORTHEAST,false,Full,
+00hr:04min:09.08sec,249.08,AWE327,E,V,NORTHEAST,true,Full,
+00hr:05min:12.39sec,312.39,AWE327,V,V,NORTHEAST,false,Full,
